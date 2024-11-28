@@ -19,9 +19,15 @@ const quizData = [
     },
     {
         question: "Qual é o nome deste jogo?",
-        options: ["TMNT- The Hyperstone", "Cyber-Shadow", "Carrion", "Metroid"],
-        answer: "Cyber-Shadow",
-        imageName: "cyber.png"
+        options: ["Rayman", "Ori", "Hollow Knight", "Rain World"],
+        answer: "Ori",
+        imageName: "ori.jpg"
+    },
+    {
+        question: "Qual é o nome deste jogo?",
+        options: ["Little Nightmares", "Inside", "Hollow knight", "Limbo"],
+        answer: "Limbo",
+        imageName: "limbo.jpg"
     }
 
     // Add more questions here...
